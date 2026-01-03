@@ -1,0 +1,12 @@
+{
+  "name": "secretix",
+  "version": "1.0.0",
+  "description": "Scalable Node.js backend with Docker Compose, AWS CI/CD, MongoDB, Redis, and secure secrets management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
